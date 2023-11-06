@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextArea?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/18" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.lotto.HelloController">
+   <children>
+      <TextField fx:id="numberOfValuesTextField" layoutX="199.0" layoutY="102.0" />
+      <Label layoutX="40.0" layoutY="106.0" text="Number of Values in Ticket" />
+      <Label layoutX="53.0" layoutY="142.0" text="Max Number In Ticket" />
+      <TextField fx:id="maxNumberTextField" layoutX="200.0" layoutY="138.0" />
+      <Button layoutX="228.0" layoutY="187.0" mnemonicParsing="false" onAction="#findWinnerButtonClick" text="Find a Winner!" />
+      <Label fx:id="resultsLabel" layoutX="200.0" layoutY="275.0" />
+      <TextArea fx:id="ticketTextArea" layoutX="383.0" layoutY="47.0" prefHeight="325.0" prefWidth="174.0" />
+   </children>
+</AnchorPane>
