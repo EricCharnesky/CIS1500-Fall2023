@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="889c087e-1b30-44ed-b33d-b6d95350833c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/project-template.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/project-template.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/ArraysAndArrayLists.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/ArraysAndArrayLists.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/src/arraysandarraylists/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/src/arraysandarraylists/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArraysAndArrayLists/src/arraysandarraylists/TicTacToe.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ArraysAndArrayLists/src/arraysandarraylists/TicTacToe.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/Chapter2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/Chapter2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Chapter2/src/chapter2/Chapter2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Chapter2/src/chapter2/Chapter2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/Classes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/Classes.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/src/Chair.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/src/Chair.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/src/ChairTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/src/ChairTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Classes/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Classes/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/list.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/listwithquantity.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/listwithquantity.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/meijerlist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/meijerlist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/src/main/java/fileio/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/src/main/java/fileio/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/src/main/java/fileio/ShoppingListProgram.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/src/main/java/fileio/ShoppingListProgram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO/src/main/java/fileio/ShoppingListProgramWithClasses.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO/src/main/java/fileio/ShoppingListProgramWithClasses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/src/main/java/fileio2/FileIO2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/src/main/java/fileio2/FileIO2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/src/main/java/fileio2/Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/src/main/java/fileio2/Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIO2/transactions.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIO2/transactions.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/helloworldjavafx/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworldjavafx/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/helloworldjavafx/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/helloworldjavafx/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/helloworldjavafx/hello-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/helloworldjavafx/hello-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/Inheritance.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/src/TaxableItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/src/TaxableItem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Loops/Loops.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Loops/Loops.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/LottoTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/src/main/java/com/example/lotto/LottoTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/src/main/java/module-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/src/main/java/module-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Lotto/src/main/resources/com/example/lotto/lotto-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/../Lotto/src/main/resources/com/example/lotto/lotto-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/Methods.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/Methods.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Methods/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Methods/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project0/Project0.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project0/Project0.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1-12Weeks/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1-12Weeks/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1-12Weeks/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1-12Weeks/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1-12Weeks/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1-12Weeks/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1-12Weeks/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1-12Weeks/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1-12Weeks/Project1-12Weeks.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1-12Weeks/Project1-12Weeks.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project1/Project1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project1/Project1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/Project2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/Project2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/ElectricVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/ElectricVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/ElectricVehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/ElectricVehicleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/InternalCombustionEngineVehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/InternalCombustionEngineVehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/InternalCombustionEngineVehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/InternalCombustionEngineVehicleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Project2/src/VehicleTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Project2/src/VehicleTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RandomNumbers/RandomNumbers.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RandomNumbers/RandomNumbers.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-LogicalOperators/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Week3-LogicalOperators/Week3-LogicalOperators.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../Week3-LogicalOperators/Week3-LogicalOperators.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/untitled.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/pom.xml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/helloworldjavafx/HelloApplication.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/example/helloworldjavafx/HelloController.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/resources/com/example/helloworldjavafx/hello-view.fxml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2CCAShoYF9TmFtEj7rZBlezgXAl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/EricC/Documents/GitHub/CIS1500-Fall2022/HelloWorldJavaFX",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.helloworldjavafx.HelloApplication" />
+      <module name="HelloWorldJavaFX" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.helloworldjavafx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="889c087e-1b30-44ed-b33d-b6d95350833c" name="Changes" comment="" />
+      <created>1658296197899</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658296197899</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
